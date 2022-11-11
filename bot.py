@@ -6,7 +6,7 @@ from database import select_feedbacks
 from excel import create_table
 import datetime
 
-bot = telebot.TeleBot(token='5697224710:AAGdpZAi2E6KTEMYQP-rfgtBlfgFGq0g5aI')
+bot = telebot.TeleBot(token=your token)
 
 @bot.message_handler(commands=['start'])
 def greeting(message):
