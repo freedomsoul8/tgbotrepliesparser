@@ -5,3 +5,4 @@ Libraries: pip install pandas openpyxl xlsxwriter selenium webdriver-manager req
 
 Works perfectly on Ubuntu(1-2 pages per second loaded) CPU 4, RAM 4GB, NVME 10GB
 
+contact developer @pepe1ove telegram
